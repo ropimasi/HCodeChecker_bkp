@@ -1,13 +1,12 @@
 # HCodeChecker
-_dev.habibi.lib.hcodchecker_  
+_dev.ropimasi.lib.hcodchecker_  
 
 &nbsp;  
 &nbsp;  
 
 ## TABLE OF CONTENTS
 * [Description](#description)
-* [Attention](#attention)
-* [Rights, License and Disclaimer](#rights)
+* [Attention: Rights, License and Disclaimer](#attention-rights)
 * [Versioning Guideline](#versioning)
 * [Features](#features)
 * [Author](#author)  
@@ -19,47 +18,21 @@ _dev.habibi.lib.hcodchecker_
 <a name="description"></a>
 ## DESCRIPTION
 * SUBJECT: Java library to check the validity of numeric codes;
-* PROJECT NAME: **HCodeChecker** - Habibi Code Checker;
-* LIBRARY NAME: **HCodeChecker**;
+* PROJECT NAME: **HCodeChecker**;
+* LIBRARY NAME: **dev.ropimasi.lib.hcodchecker**;
 * WHAT IS: **HCodeChecker** is a small Java library aims to give methods to check the validity of numeric validation codes. It can validate the validation codes made by multiples-11 and multiples-31 approaches. More information about versions and compatibility can be found below;
-* To wit: The **HCodeChecker** and its resources are a project sample, which I have developing to demonstrate some of my abilities. The **HCodeChecker** project belongs to my personal portfolio. Its detailed project can be followed just here on GitHub: [github.com/users/ROPIMASI/projects/](https://github.com/users/ROPIMASI/projects/). It is also found on my web-portfolio: [ropimasi.dev/portfolio](https://ropimasi.dev/portfolio).  
+* TO WIT: The **HCodeChecker** and its resources are a project sample, which I have developing to demonstrate some of my abilities. The **HCodeChecker** project belongs to my personal portfolio. Its detailed project can be followed just here on GitHub: [github.com/users/ROPIMASI/projects/](https://github.com/users/ROPIMASI/projects/). It is also found on my web-portfolio: [ropimasi.dev/portfolio](https://ropimasi.dev/portfolio).  
 
 &nbsp;  
 &nbsp;  
 &nbsp;  
 
-<a name="attention"></a>
-## ATTENTION
+<a name="attention-rights"></a>
+## ATTENTION: RIGHTS, LICENSE AND DISCLAIMER: (en-US)
 >**IMPORTANT NOTE / DISCLAIMER:** (en-US)
->This is a personal, private project, solely for the purpose of my studies
-in software development, and for the sole and exclusive use of mine.
-It is a project under development and experimentation, therefore I have no
-responsibility for the information contained therein, nor about its results
-and effects when used.
-  
+>This is a personal, private project, exclusively for the purposes of my studies in software development; This project and its resources are an integral, indivisible, inseparable part of a private project, which has its use expressly exclusive to its author, Ronaldo Silva (ropimasi@email.com / http://ropimasi.dev); Any use, sale, rental, distribution, in part or in full of this project is prohibited; It is a project under development and experimentation, therefore I do not recognize or assume any responsibility for its use, nor for any possible reflections or consequences of such use.  
 >**NOTA IMPORTANTE / ISENÇÃO DE RESPONSABILIDADE:** (pt-BR)
->Este é um projeto pessoal, particular, com finalidade exclusiva de meus estudos
-em desenvolvimento de software, e de uso e fruto único e exclusivamente meus.
-Trata-se de um projeto em fase de desenvovimento e experimentações, portanto não
-tenho nenhuma responsabilidade pelas informações nele contidas, tão pouco sobre
-seus resultados e efeitos ao ser utilizado.  
-
-&nbsp;  
-&nbsp;  
-&nbsp;  
-
-<a name="rights"></a>
-## RIGHTS, LICENSE AND DISCLAIMER: (en-US)
-This project and its resources are integral, indivisible, inseparable part of a particular project, which has its use expressly exclusive to its author, Ronaldo Marques (ronaldomarques@email.com / http://ronaldomarques.dev);  
-Any use, sale, rental, distribution, in parts or integral of this project is prohibited;  
-This project has the sole purpose of demonstrating knowledge and skills in software development;  
-Therefore, the author of this project does not recognize or assume any responsibility for the use of it, neither for any possible reflexes or consequence of such use.  
-
-## DIREITOS, LICENSA E ISENÇÃO DE RESPONSABILIDADE: (pt-BR)
-Este projeto e seus recursos são parte integrante, indivisível, inseparável de um projeto particular, o qual tem seu uso e fruto expressamente exclusivo à seu autor, Ronaldo Marques (ronaldomarques@email.com / http://ronaldomarques.dev);  
-É vetado qualquer utilização, venda, aluguél, distribuição, em partes ou integral deste projeto;  
-Este projeto tem finalidade exclusiva de demonstração de conhecimento e habilidades no desenvolvimento de software;  
-Sendo assim, o autor deste projeto não reconhece nem assume qualquer responsabilidade pela utilização do mesmo, tão pouco por qualquer possível reflexos ou consequência de tal utilização.  
+>Este é um projeto pessoal, privado, exclusivamente para fins dos meus estudos em desenvolvimento de software; Este projeto e seus recursos são parte integrante, indivisível, inseparável de um projeto particular, que tem seu uso expressamente exclusivo ao seu autor, Ronaldo Silva (ropimasi@email.com / http://ropimasi.dev); Qualquer uso, venda, aluguel, distribuição, em partes ou integral deste projeto é proibido; É um projeto em desenvolvimento e experimentação, portanto não reconheço nem assumo qualquer responsabilidade pelo uso do mesmo, nem por quaisquer possíveis reflexos ou consequências de tal uso.  
 
 &nbsp;  
 &nbsp;  
@@ -114,7 +87,7 @@ Thus, this project uses **_SemVer_** for its versioning. **_SemVer_** is a speci
 &nbsp;  
 
 <a name="author"></a>
-## Att. Ronaldo Pimentel Marques da Silva.
+## Att. Ronaldo Silva.
 ##### | [https://ropimasi.dev](https://ropimasi.dev) | [linkedin @ropimasi](https://linkedin.com/in/ropimasi/) | [twitter @ropimasi](https://twitter.com/ropimasi/) | [insta @ropimasi](https://instagram.com/ropimasi/) | [ropimasi@email.com](mailto://ropimasi@email.com) |  
 
 &nbsp;  
