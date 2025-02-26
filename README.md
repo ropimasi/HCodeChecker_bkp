@@ -28,9 +28,10 @@ _dev.ropimasi.lib.hcodchecker_
 &nbsp;  
 
 <a name="attention-rights"></a>
-## ATTENTION: RIGHTS, LICENSE AND DISCLAIMER: (en-US)
+## ATTENTION: RIGHTS, LICENSE AND DISCLAIMER:
 >**IMPORTANT NOTE / DISCLAIMER:** (en-US)
->This is a personal, private project, exclusively for the purposes of my studies in software development; This project and its resources are an integral, indivisible, inseparable part of a private project, which has its use expressly exclusive to its author, Ronaldo Silva (ropimasi@email.com / http://ropimasi.dev); Any use, sale, rental, distribution, in part or in full of this project is prohibited; It is a project under development and experimentation, therefore I do not recognize or assume any responsibility for its use, nor for any possible reflections or consequences of such use.  
+>This is a personal, private project, exclusively for the purposes of my studies in software development; This project and its resources are an integral, indivisible, inseparable part of a private project, which has its use expressly exclusive to its author, Ronaldo Silva (ropimasi@email.com / http://ropimasi.dev); Any use, sale, rental, distribution, in part or in full of this project is prohibited; It is a project under development and experimentation, therefore I do not recognize or assume any responsibility for its use, nor for any possible reflections or consequences of such use.
+>  
 >**NOTA IMPORTANTE / ISENÇÃO DE RESPONSABILIDADE:** (pt-BR)
 >Este é um projeto pessoal, privado, exclusivamente para fins dos meus estudos em desenvolvimento de software; Este projeto e seus recursos são parte integrante, indivisível, inseparável de um projeto particular, que tem seu uso expressamente exclusivo ao seu autor, Ronaldo Silva (ropimasi@email.com / http://ropimasi.dev); Qualquer uso, venda, aluguel, distribuição, em partes ou integral deste projeto é proibido; É um projeto em desenvolvimento e experimentação, portanto não reconheço nem assumo qualquer responsabilidade pelo uso do mesmo, nem por quaisquer possíveis reflexos ou consequências de tal uso.  
 
